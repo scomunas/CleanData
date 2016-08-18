@@ -13,21 +13,14 @@ We've trying to merge 2 datasets and extract only the info we need. For doing th
 ## Code Book
 
 **Activity**
-
 1 WALKING
-
 2 WALKING_UPSTAIRS
-
 3 WALKING_DOWNSTAIRS
-
 4 SITTING
-
 5 STANDING
-
 6 LAYING
 
 **Subject**
-
 Number that indicates Subject Number for each value row
 
 **Rest of the rows**
@@ -98,6 +91,10 @@ fBodyGyro-std()-Y
 fBodyGyro-std()-Z
 fBodyAccMag-std()
 fBodyBodyAccJerkMag-std()
+
+
+
+
 
 
 
