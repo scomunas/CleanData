@@ -13,12 +13,13 @@ We've trying to merge 2 datasets and extract only the info we need. For doing th
 ## Code Book
 
 **Activity**
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+
+*1 WALKING
+*2 WALKING_UPSTAIRS
+*3 WALKING_DOWNSTAIRS
+*4 SITTING
+*5 STANDING
+*6 LAYING
 
 **Subject**
 Number that indicates Subject Number for each value row
@@ -27,17 +28,17 @@ Number that indicates Subject Number for each value row
 
 Each one of the rest indicate an average value of all the items related to mean or std of each parameter in the experiment. Here you can see a list of all the rest of the columns:
 
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
-tGravityAcc-mean()-X
-tGravityAcc-mean()-Y
-tGravityAcc-mean()-Z
-tBodyAccJerk-mean()-X
-tBodyAccJerk-mean()-Y
-tBodyAccJerk-mean()-Z
-tBodyGyro-mean()-X
-tBodyGyro-mean()-Y
+*tBodyAcc-mean()-X
+*tBodyAcc-mean()-Y
+*tBodyAcc-mean()-Z
+*tGravityAcc-mean()-X
+*tGravityAcc-mean()-Y
+*tGravityAcc-mean()-Z
+*tBodyAccJerk-mean()-X
+*tBodyAccJerk-mean()-Y
+*tBodyAccJerk-mean()-Z
+*tBodyGyro-mean()-X
+*tBodyGyro-mean()-Y
 tBodyGyro-mean()-Z
 tBodyGyroJerk-mean()-X
 tBodyGyroJerk-mean()-Y
